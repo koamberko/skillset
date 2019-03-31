@@ -1,0 +1,97 @@
+
+ html{
+  background-color: rgb(237, 243, 255);
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+header h1 {
+  font-family: avenir, sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  color: red!important;
+  text-align: center!important;
+  position: relative;
+  top: 60px;
+}
+
+header h2 {
+  font-family: avenir, sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  color: transparent!important;
+  -webkit-text-stroke: 1px black!important;
+  position: relative;
+  left: 548px;
+  top: -48px;
+}
+
+header a{
+  text-decoration: none;
+}
+a:visited{ 
+  text-decoration: none;
+}
+a:hover { 
+  text-decoration: none;
+}
+a:focus { 
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none
+} 
+a:active { 
+  text-decoration: none;
+}
+
+header h6{
+  font-family: avenir, sans-serif;
+  font-weight: 500;
+  position: relative;
+  left: 60px;
+  top: -120px;
+  color: red;
+}
+
+.fa-search{
+  position: relative;
+  left: 33px;
+  top: -160px; 
+  color: red;
+}
+
+.nav{
+  font-family: avenir, sans-serif;
+  font-size: 12px;
+  color: blue;
+  position: relative;
+  /*left: 550px;*/
+  top: -120px;
+  text-align: center;
+
+}
+.nav a {
+  padding: 0 1rem;
+  text-decoration: none;
+  position: relative;
+  top: 30px;
+}
+
+.nav2{
+  font-family: avenir, sans-serif;
+  font-size: 12px;
+  color: red;
+  text-align: center;
+  position: relative;
+  top: -135px;
+}
+
+.nav3{
+  font-family: avenir, sans-serif;
+  font-size: 12px;
+  color: blue;
+  position: relative;
+  left: 850px;
+  top:-148px;
+}
